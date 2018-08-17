@@ -1,5 +1,5 @@
-# NetCoreCharts
- integrate chart.js with Asp.Net Core application with 4 different types of charts, which are: 
+# .NetCoreCharts
+ Integrate chart.js with Asp.Net Core application with 4 different types of charts, which are: 
 
     Pie
     Bar
